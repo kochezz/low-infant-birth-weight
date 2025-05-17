@@ -1,4 +1,4 @@
-# 👶 Low Infant Birth Weight Classification using Logistic Regression (R)
+# Low Infant Birth Weight Classification using Logistic Regression (R)
 
 [![R](https://img.shields.io/badge/Built%20With-R-blue?logo=r)](https://www.r-project.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
