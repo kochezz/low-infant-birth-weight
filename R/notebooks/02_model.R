@@ -247,7 +247,16 @@ abline(a = 0, b = 1, lty = 2, col = "gray")  # Diagonal reference line
 auc(roc_obj)
 
 
+table(test_data$low)
 
+
+#---------------------------------------------------------------
+
+# Save Model
+
+setwd("C:/Users/willi/GitHub/APM_low_infant_birth_wt_R/models")
+
+saveRDS(logit_model, file = "birth_wt_logit_model.rds")
 
 
 
